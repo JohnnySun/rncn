@@ -17,7 +17,8 @@ Available 24/7, 365 days a year, the RNCN NOC offers support in English or Chine
 
 #### Email NOC: noc@rncn.net
 ##  Are you already a customer?
-If you are interested in peering and transit arrangements with us, please simply contact us at peering@rncn.net to initiate the process.
+If you are interested in peering and transit with us, please simply contact us to initiate the process.
+#### Email peering: peering@rncn.net
 
 ## Want to file a malicious activity report?
 #### Email abuse: abuse@rncn.net
