@@ -11,7 +11,7 @@ The following Internet Access Providers have been directly connected to RNCN
 | Rivoreo IP33CH | 4808  | Y   |     |     | Y   |
 | Rivoreo TSN2   | 4837  | Y   |     |     | Y   |
 | Rivoreo TYO    | 20473 |     | Y   |     | Y   |
-| Rivoreo HKG    | 906   |     | Y   |     | Y   |
+| Rivoreo HKG    | 9312   |     | Y   |     | Y   |
 | Rivoreo SJC    | 906   |     | Y   |     | Y   |
 
 Number of Participants = 5
