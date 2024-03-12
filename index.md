@@ -3,6 +3,8 @@ title: About RNCN
 layout: home
 ---
 
-# UNDER CONSTRUCTION
+# RNCN IS UNDER CONSTRUCTION
 
-![image](https://cdn.jsdelivr.net/gh/JohnnySun/rncn@main/assets/images/RivoreoNextCarryingNetwork-20240312.png)
+# Architecture Diagram
+![Architecture Diagram](https://cdn.jsdelivr.net/gh/JohnnySun/rncn@main/assets/images/RivoreoNextCarryingNetwork-20240312.png)
+Last updated on 12-Mar-2024
