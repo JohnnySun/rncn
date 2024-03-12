@@ -5,4 +5,4 @@ layout: home
 
 # Under construction
 
-![image](asstes/img/RivoreoNextCarryingNetwork-20240312.png)
+![image](https://cdn.jsdelivr.net/gh/JohnnySun/rncn@main/assets/images/RivoreoNextCarryingNetwork-20240312.png)
