@@ -5,7 +5,7 @@ layout: home
 
 # Rivoreo Next Carrying Network
 
-**Welcome to RivoreoNextCarryingNetwork (RNCN) – Your Gateway to Accelerated Digital Experiences**
+**Welcome to Rivoreo Next Carrying Network (RNCN) – Your Gateway to Accelerated Digital Experiences**
 
 RivoreoNextCarryingNetwork is at the forefront of digital acceleration, leveraging partnerships with leading Tier 1 networks to deliver unparalleled routing efficiency. With RNCN, users in China and around the globe can enjoy optimized routing solutions designed to enhance connectivity and speed.
 
