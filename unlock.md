@@ -35,6 +35,6 @@ The bypass system operates by intelligently routing your connection through our 
 - **Enhanced Privacy**: Keep your online activity private and secure from surveillance and data collection.
 - **Peace of Mind**: With our reliable and efficient system, you can focus on what you enjoy most, without the hassle of regional restrictions.
 
-Embark on a journey of unrestricted digital exploration and discover content from across the globe without limitations. For more information on how to unlock the world with our Media/Service Regional Restrictions Bypass System, visit [RNCN's unlock page](https://rncn.net/unlock.html).
+Embark on a journey of unrestricted digital exploration and discover content from across the globe without limitations. For more information on others about RNCN, [visit](https://rncn.net/).
 
 RNCN - Your Passport to Global Content.
