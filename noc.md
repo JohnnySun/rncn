@@ -17,7 +17,7 @@ We understanding the critical importance of uninterrupted connectivity for your 
 
 #### Email NOC: noc@rncn.net
 ##  Are you already a customer?
-If you are interested in peering and transit with us, please simply contact us to initiate the process.
+If you are interested in peering or transit with us, please simply contact us to initiate the process.
 #### Email peering: peering@rncn.net
 
 ## Want to file a malicious activity report?
