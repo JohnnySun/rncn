@@ -40,7 +40,7 @@ Leverage our extensive network of Points of Presence (POPs) for unparalleled acc
 
 Ready to transform your online experience? Explore our services and discover how RNCN can elevate your digital journey.
 
-For more information or to get started with our services, please reach out to us at [peering@rncn.net](mailto:peering@rncn.net?subject=Peering%20request%20to%20RNCN).
+For more information or to get started with our services, please reach out to us at [peering@rncn.net](mailto:peering@rncn.net?subject=Customer%20Inquiry%20Regarding%20Peering%20and%20Transit%20Options)
 
 
 **RNCN - Redefining Connectivity for a World Without Limits.**
