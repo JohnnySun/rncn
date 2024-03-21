@@ -1,0 +1,21 @@
+main:
+  - name: "About"
+    url: "/about/"
+    weight: 2
+  - name: "Services"
+    url: "/services/"
+    weight: 3
+  - name: "Participants"
+    url: "/participants/"
+    weight: 4
+  - name: "NOC"
+    url: "/noc/"
+    weight: 5
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "NOC"
+    url: "/noc/"
+    weight: 2

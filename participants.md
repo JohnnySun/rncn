@@ -1,6 +1,7 @@
 ---
 title: List of Participants
-layout: default
+layout: service
+description: List of Participants
 ---
 
 # List of Participants

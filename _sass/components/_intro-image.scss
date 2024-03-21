@@ -1,0 +1,42 @@
+.intro-image {
+  width: 100%;
+  height: auto;
+  margin-top: -40px;
+}
+.intro-image-absolute {
+  max-width: none;
+  padding: 0;
+  margin-bottom: 30px;
+  
+  @include media-breakpoint-up(sm) {
+    /* 在小屏幕设备上的样式 */
+  }
+  @include media-breakpoint-up(md) {
+    position: absolute;
+    bottom: -50px;
+    left: 50%; /* 居中 */
+    transform: translateX(-50%); /* 校正位置以确保准确居中 */
+    width: 700px;
+  }
+  @include media-breakpoint-up(lg) {
+    position: absolute;
+    bottom: -60px;
+    left: 50%; /* 居中 */
+    transform: translateX(-50%); /* 校正位置以确保准确居中 */
+    width: 800px;
+  }
+  @include media-breakpoint-up(xl) {
+    position: absolute;
+    bottom: -100px;
+    left: 50%; /* 居中 */
+    transform: translateX(-50%); /* 校正位置以确保准确居中 */
+    width: 850px;
+  }
+}
+
+.intro-image-hide-mobile {
+  display: none;
+  @include media-breakpoint-up(md) {
+    display: block;
+  }
+}

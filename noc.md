@@ -1,9 +1,8 @@
 ---
-title: NOC
-layout: default
+title: Network Operations Center
+layout: contact
+description: Network Operations Center
 ---
-
-# Network Operations Center (NOC)
 
 ## Overview
 
@@ -31,3 +30,4 @@ If you are interested in peering or transit with us, please contact us to initia
 ---
 
 **RNCN NOC: Your 24/7 Partner in Uninterrupted Connectivity and Support.**
+
