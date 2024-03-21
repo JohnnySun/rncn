@@ -35,4 +35,4 @@ Ready to transcend geographical limitations and explore digital content without 
 
 For more information on others about RNCN? [Click](https://rncn.net/).
 
-RNCN - Your Gateway to Unrestricted Digital Exploration.
+**RNCN - Your Gateway to Unrestricted Digital Exploration.**

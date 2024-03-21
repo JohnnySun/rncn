@@ -35,5 +35,5 @@ Discover how Rivoreo Smart Routing can transform your digital journey. Dive deep
 
 [Learn More About RNCN](https://rncn.net)
 
-RNCN - Redefining Connectivity for a Borderless World.
+**RNCN - Redefining Connectivity for a Borderless World.**
 
