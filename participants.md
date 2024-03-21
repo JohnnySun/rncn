@@ -4,8 +4,6 @@ layout: service
 description: List of Participants
 ---
 
-# List of Participants
-
 Rivoreo Next Carrying Network (RNCN) proudly showcases its Points of Presence (POPs) through a robust network of participants. These entities play a crucial role in our global infrastructure, enabling superior peering and edge network services.
 
 ## Our POPs and Their Locations
