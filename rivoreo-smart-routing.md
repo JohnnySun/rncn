@@ -31,6 +31,6 @@ Rivoreo Smart Routing isn't just another routing protocol. It's a dynamic, intel
 - **Optimized for Global Access**: Whether you're connecting locally or internationally, enjoy the best possible digital experience.
 - **Future-Proof**: Continually evolves with the latest in networking technology and data analytics for sustained optimal performance.
 
-Discover the difference with Rivoreo Smart Routing and propel your digital journey forward with confidence and efficiency. For more details on how Rivoreo Smart Routing can transform your connectivity, visit [RNCN's Rivoreo Smart Routing page](https://rncn.net/rivoreo-smart-routing.html).
+Discover the difference with Rivoreo Smart Routing and propel your digital journey forward with confidence and efficiency. For more details on how Rivoreo Next Carrying Network can transform your connectivity, visit [About RNCN](https://rncn.net).
 
 RNCN - Connecting You to a World Without Limits.
