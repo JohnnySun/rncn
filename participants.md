@@ -21,6 +21,6 @@ Here is a detailed list of our participants and their locations, representing th
 
 **Total Number of Participants: 5**
 
-_Last updated on 21-Mar-2024_
+_Last updated on 10-Jul-2024_
 
 These participants are integral to RNCN's commitment to delivering unparalleled connectivity and digital services across the globe, ensuring users everywhere can benefit from our network's extensive capabilities.
