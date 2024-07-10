@@ -13,6 +13,7 @@ Here is a detailed list of our participants and their locations, representing th
 | **Participant**       | **AS Number** | **Location** | **Records in RNCN**               | **IPv6 Enabled** |
 |:----------------------|:-------------:|:------------:|:----------------------------------|:----------------:|
 | Rivoreo IP33CH        | 4808          | PEK          | cucc1-pek-100m.rncn.net           | Y                |
+| Rivoreo PEKCM1        | 56048         | PEK          | cmcc1-pek-50m.rncn.net            | Y                |
 | Rivoreo TSN2          | 4837          | TSN          |                                   | Y                |
 | Rivoreo TYO           | 20473         | TYO          |                                   | Y                |
 | Rivoreo ZE97PX        | 51847         | HKG          | cug1-eqkh2-hkg-500m.rncn.net      | Y                |
@@ -20,7 +21,7 @@ Here is a detailed list of our participants and their locations, representing th
 | Rivoreo 87UK3M        | ???           | HKG          | lumen1-hkbgp-hkg-10g.rncn.net     | Y                |
 | Rivoreo SJC           | 906           | SJC          |                                   | Y                |
 
-**Total Number of Participants: 5**
+**Total Number of Participants: 8**
 
 _Last updated on 10-Jul-2024_
 
