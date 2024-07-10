@@ -11,7 +11,7 @@ Rivoreo Next Carrying Network (RNCN) proudly showcases its Points of Presence (P
 Here is a detailed list of our participants and their locations, representing the strategic spread of RNCN's global network. Each participant is a vital link in providing high-speed, reliable, and secure internet access.
 
 | **Participant**       | **AS Number** | **Location** | **Records in RNCN**               | **IPv6 Enabled** |
-|:---------------------:|:-------------:|:------------:|:---------------------------------:|:----------------:|
+|:----------------------|:-------------:|:------------:|:----------------------------------|:----------------:|
 | Rivoreo IP33CH        | 4808          | PEK          | cucc1-pek-100m.rncn.net           | Y                |
 | Rivoreo TSN2          | 4837          | TSN          |                                   | Y                |
 | Rivoreo TYO           | 20473         | TYO          |                                   | Y                |
