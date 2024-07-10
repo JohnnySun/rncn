@@ -10,13 +10,14 @@ Rivoreo Next Carrying Network (RNCN) proudly showcases its Points of Presence (P
 
 Here is a detailed list of our participants and their locations, representing the strategic spread of RNCN's global network. Each participant is a vital link in providing high-speed, reliable, and secure internet access.
 
-| **Participant**       | **AS Number** | **Location** | **FE Link(s) to RNCN** | **GE Link(s) to RNCN** | **10GE Link(s) to RNCN** | **IPv6 Enabled** |
-|:---------------------:|:-------------:|:------------:|:----------------------:|:----------------------:|:------------------------:|:----------------:|
-| Rivoreo IP33CH        | 4808          | PEK          | Y                      |                        |                          | Y                |
-| Rivoreo TSN2          | 4837          | TSN          | Y                      |                        |                          | Y                |
-| Rivoreo TYO           | 20473         | TYO          |                        | Y                      |                          | Y                |
-| Rivoreo HKG           | 9312          | HKG          |                        | Y                      |                          | Y                |
-| Rivoreo SJC           | 906           | SJC          |                        | Y                      |                          | Y                |
+| **Participant**       | **AS Number** | **Location** | **Records in RNCN**               | **IPv6 Enabled** |
+|:---------------------:|:-------------:|:------------:|:---------------------------------:|:----------------:|
+| Rivoreo IP33CH        | 4808          | PEK          | cucc1-pek-100m.rncn.net           | Y                |
+| Rivoreo TSN2          | 4837          | TSN          |                                   | Y                |
+| Rivoreo TYO           | 20473         | TYO          |                                   | Y                |
+| Rivoreo ZE97PX        | 9312          | HKG          | cug1-eqkh2-hkg-500m.rncn.net      | Y                |
+| Rivoreo PTA5VQ        | 9312          | HKG          | retn1-eqhk2-hkg-10g.rncn.net      | Y                |
+| Rivoreo SJC           | 906           | SJC          |                                   | Y                |
 
 **Total Number of Participants: 5**
 
