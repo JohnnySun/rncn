@@ -20,7 +20,7 @@ Here is a detailed list of our participants and their locations, representing th
 | Rivoreo ZE97PX        | 51847         | HKG          | cug1-eqkh2-hkg-500m.rncn.net      | Y                |
 | Rivoreo PTA5VQ        | 51847         | HKG          | retn1-eqhk2-hkg-10g.rncn.net      | Y                |
 | Rivoreo 87UK3M        | 204174        | HKG          | lumen1-hkbgp-hkg-5g.rncn.net      | Y                |
-| Rivoreo SJC           | 906           | SJC          |                                   | Y                |
+| Rivoreo SJC           | 906           | SJC          | dmit1-sjc-10g.rncn.net            | Y                |
 
 **Total Number of Participants: 9**
 
