@@ -3,6 +3,7 @@
   color: $sub-footer-text-color;
   padding-top: 15px;
   padding-bottom: 15px;
+  z-index: 2;
   @include media-breakpoint-up(md) {
     padding-top: 10px;
     padding-bottom: 10px;
