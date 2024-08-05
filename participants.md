@@ -22,7 +22,7 @@ Here is a detailed list of our participants and their locations, representing th
 | Rivoreo HKG           | 202662        | HKG          | hytron1-hkg-7g.rncn.net           | Y                |
 | Rivoreo 87UK3M        | 204174        | HKG          | lumen1-hkbgp-hkg-5g.rncn.net      | Y                |
 | Rivoreo SIN           | 18464         | HKG          | ctcsci1-sin-10g.rncn.net          | Y                |
-| Rivoreo SJC           | 906           | SJC          | dmit1-lax-10g.rncn.net            | Y                |
+| Rivoreo LAX           | 906           | LAX          | dmit1-lax-10g.rncn.net            | Y                |
 
 **Total Number of Participants: 11**
 
