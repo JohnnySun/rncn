@@ -28,3 +28,6 @@ footer:
   - name: "Looking Glass"
     url: "https://lg.rncn.net"
     weight: 3
+  - name: "RNCN Status"
+    url: "https://monitor.rncn.net"
+    weight: 4
