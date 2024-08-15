@@ -11,9 +11,12 @@ main:
   - name: "NOC"
     url: "/noc/"
     weight: 5
+  - name: "Looking Glass"
+    url: "https://lg.rncn.net"
+    weight: 6
   - name: "Network Map"
     url: "/map/"
-    weight: 5
+    weight: 7
 
 footer:
   - name: "Home"
@@ -22,3 +25,6 @@ footer:
   - name: "NOC"
     url: "/noc/"
     weight: 2
+  - name: "Looking Glass"
+    url: "https://lg.rncn.net"
+    weight: 3
