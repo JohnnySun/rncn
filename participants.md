@@ -16,6 +16,7 @@ Here is a detailed list of our participants and their locations, representing th
 | Rivoreo PEK9929       | 9929          | PEK          | none                              | N                |
 | Rivoreo PEKCM1        | 56048         | PEK          | cmcc1-pek-50m.rncn.net            | Y                |
 | Rivoreo TSNCU1        | 4837          | TSN          | cucc1-tsn-100m.rncn.net           | Y                |
+| Rivoreo TSNCU2        | 4837          | TSN          | cucc2-tsn-100m.rncn.net           | Y                |
 | Rivoreo SZXCM1        | 56040         | SZX          | cmcc-szx1-800m.rncn.net           | Y                |
 | Rivoreo SJW           | 4837          | SJW          | none                              | Y                |
 | Rivoreo TYO           | 61112         | TYO          | nearoute1-tyo-500m.rncn.net       | Y                |
@@ -30,6 +31,6 @@ Here is a detailed list of our participants and their locations, representing th
 
 **Total Number of Participants: 14**
 
-_Last updated on 30-Sep-2024_
+_Last updated on 2-Oct-2024_
 
 These participants are integral to RNCN's commitment to delivering unparalleled connectivity and digital services across the globe, ensuring users everywhere can benefit from our network's extensive capabilities.
