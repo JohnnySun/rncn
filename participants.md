@@ -27,10 +27,11 @@ Here is a detailed list of our participants and their locations, representing th
 | Rivoreo LAX           | 906           | LAX          | dmit1-lax-10g.rncn.net            | Y                |
 | Rivoreo LHR           | 48266         | LHR          | catixs-lhr-500m.rncn.net          | Y                |
 | Rivoreo RMQ           | 3462          | RMQ          | hinet1-rmq-200m.rncn.net          | Y                |
+| Rivoreo FRA           | 13335         | FRA          | hetzner1-fsn-1g                   | Y                |
 
 
-**Total Number of Participants: 15**
+**Total Number of Participants: 16**
 
-_Last updated on 2-Oct-2024_
+_Last updated on 7-Oct-2024_
 
 These participants are integral to RNCN's commitment to delivering unparalleled connectivity and digital services across the globe, ensuring users everywhere can benefit from our network's extensive capabilities.
